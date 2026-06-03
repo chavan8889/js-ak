@@ -1,0 +1,8 @@
+let name = "ram";
+let age = 29;
+let marks = 92.5;
+const Birthdate = 01-01-1995;
+const male = true;
+
+
+console.log(typeof name, typeof age, typeof marks, typeof Birthdate, typeof male);  

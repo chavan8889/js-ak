@@ -1,0 +1,11 @@
+const name = "akshay";
+let emailid = "ac8972259@gmail.com";
+let age = 23;
+let classroom = "mca";
+let address = "pune";
+
+console.table({name, emailid, classroom, age, address});
+
+
+
+
