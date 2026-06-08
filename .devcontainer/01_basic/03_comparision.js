@@ -1,0 +1,11 @@
+console.log(null > 0)
+console.log(null < 0)
+console.log(null == 0)
+console.log(null >= 0)
+console.log(null <= 0)
+// null is only equal to undefined and not to any other value, including 0.
+console.log(undefined > 0)
+console.log(undefined < 0)
+console.log(undefined == 0)
+console.log(undefined >= 0)
+console.log(undefined <= 0)
